@@ -34,3 +34,10 @@ sci-kit learn: For data preprocessing. train_test_split, metrics
 Pandas: For data manipulation and analysis.
 Numpy: For numerical computations.
 matplotlib: For visualization 
+
+# Loss Graph per epoch:
+
+![image](https://github.com/user-attachments/assets/acfbf9ba-1254-4672-94ee-5795f555e760)
+
+![image](https://github.com/user-attachments/assets/b8d6c4ee-3760-4d86-b37d-0d38615b78eb)
+
